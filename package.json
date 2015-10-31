@@ -1,0 +1,19 @@
+{
+  "name": "creative-structures",
+  "version": "1.0.0",
+  "description": "a collection of creative programming tools currently contains an array-based tree structure, a random set creator and manager, and some basic color functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephen-standridge/creative-structures.git"
+  },
+  "author": "Stephen Standridge <Stephen@formisfunction.io> (www.formisfunction.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephen-standridge/creative-structures/issues"
+  },
+  "homepage": "https://github.com/stephen-standridge/creative-structures"
+}
